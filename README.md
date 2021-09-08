@@ -1,4 +1,4 @@
-## Hi! My Name is Evandro Souza Santos
+## Hi! my name is Evandro Souza Santos
 
  <div>
   <a href="https://github.com/akiraev79">
